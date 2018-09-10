@@ -1,0 +1,19 @@
+Git_plugin
+
+1)Structs
+2)workflow-step-api
+3)workflow-scm-step
+4)credentials
+5)ssh-credentials
+6)scm-api
+7)Pipeline: API
+8)Script Security
+9)JUnit
+10)matrix
+11)display-url
+12)mailer
+13)apache HTTPComponents
+14)JSch
+15)Git Client
+16)Git
+
